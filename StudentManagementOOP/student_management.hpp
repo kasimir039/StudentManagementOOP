@@ -17,7 +17,7 @@ public:
 	void setName(std::string& _name);
 	void setSurName(std::string& _surName);
 
-	int	 getRoll() const;
+	int  getRoll() const;
 	int  getAge() const;
 	std::string getName() const;
 	std::string getSurName() const;
